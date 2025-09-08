@@ -26,7 +26,7 @@ An API key from a weather service (e.g., OpenWeatherMap, WeatherAPI).
 Steps
 Clone the repository:
 
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+git clone https://github.com/tom-dev-01/Weather-app-.git
 cd your-repo-name
 
 Install dependencies:
